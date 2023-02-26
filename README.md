@@ -6,3 +6,6 @@ Topics to be covered.
 - SMOTE technique.
 - Collatz model-transformer.
 - Multi-modeling and assessment.
+
+Read pdf article in the upload section or my LinkedIn https://lnkd.in/d9D-CaWX
+ 
