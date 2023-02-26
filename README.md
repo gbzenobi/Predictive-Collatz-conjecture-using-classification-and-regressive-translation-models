@@ -7,5 +7,5 @@ Topics to be covered.
 - Collatz model-transformer.
 - Multi-modeling and assessment.
 
-Read pdf article in the upload section or my LinkedIn https://lnkd.in/d9D-CaWX
+Read my pdf paper in the upload section or my LinkedIn https://lnkd.in/d9D-CaWX
  
